@@ -1,2 +1,5 @@
+result
 .idea
 mian.py
+.pytest_cache
+__pycache__

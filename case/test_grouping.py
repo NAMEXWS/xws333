@@ -1,6 +1,6 @@
 import pytest
 
-from API import Grouping
+from API.api_grouping import Grouping
 
 
 class TestGrouping:

@@ -20,6 +20,7 @@ class TestGrouping:
         """添加公司"""
         a = self.group.add_company()
 
+
     def test_del_group(self):
         """删除分组"""
         a = self.group.del_group()

@@ -1,0 +1,6 @@
+pytest
+pyyaml
+loguru
+requests
+jmespath
+allure-pytest

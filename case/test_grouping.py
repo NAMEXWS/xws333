@@ -14,7 +14,7 @@ class TestGrouping:
         """创建分组"""
 
         a = self.group.create_group()
-        # assert a.status_code == 200
+        assert a.status_code == 300
 
     def test_add_company(self):
         """添加公司"""
